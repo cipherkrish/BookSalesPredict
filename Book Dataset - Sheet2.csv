@@ -1,4 +1,4 @@
-Shop Name,Shop Id,Location,Educational for High school,Engineering,Medicine,Sports magazines,GATE & JEE,UPSC,Management,Date of Purchase,Result
+ShopName,ShopId,Location,Highschool,Engineering,Medicine,Sportsmagazines,GATE&JEE,UPSC,Management,DateofPurchase,Result
 A,1000,Adyar,70,80,90,200,100,45,30,4/1/2013,"Sports,Gate&JEE,Medicine,Engineering,Educational,UPSC,Management"
 B,1001,Ashok Nagar,70,90,80,180,100,50,35,4/1/2013,"Sports,Gate&JEE,Medicine,Engineering,Educational,UPSC,Management"
 C,1002,Ambattur,-60,80,100,190,110,45,40,4/1/2013,"Sports,Gate&JEE,Medicine,Engineering,Educational,UPSC,Management"
