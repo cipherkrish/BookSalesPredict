@@ -2,7 +2,7 @@ ShopName,ShopId,Location,Highschool,Engineering,Medicine,Sportsmagazines,GATE&JE
 A,1000,Adyar,70,80,90,200,100,45,30,4/1/2013,"Sports,Gate&JEE,Medicine,Engineering,Educational,UPSC,Management"
 B,1001,Ashok Nagar,70,90,80,180,100,50,35,4/1/2013,"Sports,Educational,Gate&JEE,UPSC,Engineering,Medicine,Management"
 C,1002,Ambattur,-60,80,100,190,110,45,40,4/1/2013,"Sports,Gate&JEE,Medicine,Engineering,Educational,UPSC,Management"
-D,1003,Anna Nagar,60,70,80,180,80,45,35,4/1/2013,"Educational,UPSC,Engineering,Sports,Gate&JEE,Medicine,Management"
+D,1003,Anna Nagar,180,70,80,6-0,80,45,80,4/1/2013,"Educational,UPSC,Engineering,Sports,Gate&JEE,Medicine,Management"
 E,1004,Chrompet,70,80,90,180,90,45,30,4/1/2013,"Sports,Educational,Gate&JEE,UPSC,Engineering,Medicine,Management"
 F,1005,Kolathur,70,60,100,200,100,45,45,4/2/2013,"Sports,Educational,Gate&JEE,UPSC,Engineering,Medicine,Management"
 G,1006,Mylapore,60,70,80,180,100,50,30,4/2/2013,"Sports,Gate&JEE,Medicine,Engineering,Educational,UPSC,Management"
